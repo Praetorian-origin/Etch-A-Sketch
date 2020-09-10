@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;    
+}
+
+#utils {
+    margin:auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#clearSquareButton {
+    background-color:#c9eed5;
+    height: 50px;
+    padding: 10px 10px;
+}
+
+#container {
+    display: grid;
+    width: 960px;
+    height: 800px;
+    margin: auto;
+    border: solid 1px;
+}
